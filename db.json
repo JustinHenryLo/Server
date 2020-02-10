@@ -1,18 +1,18 @@
-{todos:[
+{'todos':[
         {
-          id: "Todo Uno",
-          title: "Lmao Todo 1",
-          completed:false
+          'id': "Todo Uno",
+          'title': "Lmao Todo 1",
+          'completed':false
         },
         {
-          id: "Todo Dos",
-          title: "Lmao Todo 2",
-          completed:false
+          'id': "Todo Dos",
+          'title': "Lmao Todo 2",
+          'completed':false
         },
         {
-          id: "Todo Tres",
-          title: "Lmao Todo 3",
-          completed:false
+          'id': "Todo Tres",
+          'title': "Lmao Todo 3",
+          'completed':false
         },
       ]
       }
